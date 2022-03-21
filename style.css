@@ -1,6 +1,7 @@
 html {
     box-sizing: border-box;
-    background: #AD828E;
+    background-image: url("images/pexels-eugene-golovesov-10659011.jpg");
+    background-size: cover;
     font-family: Arial;
     font-size: 20px;
     font-weight: 200;
@@ -26,7 +27,7 @@ input.search {
     outline: 0;
     border: 10px solid #f7f7f7;
     width: 120%;
-    left: -10%;
+    left: -15%;
     position: relative;
     top: 10px;
     z-index: 2;
